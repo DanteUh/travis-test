@@ -6,6 +6,7 @@
   "author": "Jesper Orb <jesperorb@gmail.com> (https://jesperorb.com/)",
   "license": "MIT",
   "dependencies": {
+    "coveralls": "^3.0.0",
     "enzyme": "3.2.0",
     "enzyme-adapter-react-16": "1.1.1",
     "prop-types": "15.6.0",
